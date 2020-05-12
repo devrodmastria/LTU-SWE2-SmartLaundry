@@ -2,6 +2,6 @@
 
 ![Screenshot](iOS_Design.png)
 
-Demo video: https://youtu.be/OmMEz-dpdQo
+iOS App demo video: https://youtu.be/OmMEz-dpdQo
 
-Original design: https://ricecx.wixsite.com/smartlaundry
+Original design from our website: https://ricecx.wixsite.com/smartlaundry
