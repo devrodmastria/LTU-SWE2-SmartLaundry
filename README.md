@@ -1,4 +1,4 @@
 # LTU-SWE2-SmartLaundry
 
-AWS integration requirements
+![Screenshot](iOS_Design.png)
 
